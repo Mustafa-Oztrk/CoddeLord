@@ -28,7 +28,7 @@
 
 ## Tech I Use 
 <br/>
-<div style="display: flex; margin-left: 20px;">
+<div style="display: flex; >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32" style=" margin-left: 10px;">
