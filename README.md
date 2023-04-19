@@ -17,7 +17,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />](https://t.me/yorumsuzum)
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />](Instagram)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />](https://www.instagram.com/coddelord/ )
 
 <br/>
 <br/>
@@ -51,6 +51,5 @@
 ## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoddeLord&layout=compact">
-[Telergram] : 
-[Instagram] : https://www.instagram.com/coddelord/ 
+
 
