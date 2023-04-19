@@ -15,9 +15,12 @@
 - 💬 Ask me about Mobile application backend & frontend / web design...
 ## How to reach me: 
 
+<p>
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />](https://t.me/yorumsuzum)
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />](https://www.instagram.com/coddelord/)
+</p>
+
 
 
 
