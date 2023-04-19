@@ -15,9 +15,9 @@
 - 💬 Ask me about Mobile application backend & frontend / web design...
 ## How to reach me: 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />][Telegram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />](Telegram)
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />][Instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />](Instagram)
 
 <br/>
 <br/>
