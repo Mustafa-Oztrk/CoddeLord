@@ -15,11 +15,8 @@
 - 💬 Ask me about Mobile application backend & frontend / web design...
 ## How to reach me: 
 
-<p>
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" />](https://t.me/yorumsuzum)
-
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" />](https://www.instagram.com/coddelord/)
-</p>
+<p> <a href="https://www.instagram.com/coddelord/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CoddeLord" height="30" width="40" style="max-width: 100%;"></a>
+ <a href="https://t.me/yorumsuzum" rel="nofollow"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="@yorumsuzum" height="30" width="40" style="max-width: 100%;"></a></p>
 
 
 
@@ -30,7 +27,7 @@
 
 ## Tech I Use 
 <br/>
-<div style="display: inilne-flex; >
+<div style="display: flex; margin-left: 20px;">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32" style=" margin-left: 10px;">
